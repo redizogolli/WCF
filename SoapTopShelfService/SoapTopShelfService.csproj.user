@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+    <RevDeBugCompilerPath>C:\Users\Redi Zogolli\AppData\Local\Microsoft\VisualStudio\15.0_6f72984b\Extensions\sjzkx2ak.ehl\tmcc\</RevDeBugCompilerPath>
+    <CustomAfterMicrosoftCommonTargets>C:\Users\Redi Zogolli\AppData\Local\Microsoft\VisualStudio\15.0_6f72984b\Extensions\sjzkx2ak.ehl\tmcc\RevDeBug.ImportAfter.targets</CustomAfterMicrosoftCommonTargets>
+    <RevDeBugActive>True</RevDeBugActive>
+    <SaveMetadataAsync>true</SaveMetadataAsync>
+    <RevDeBugDisableNuget>true</RevDeBugDisableNuget>
+    <RevDeBugMetadataPath>C:\Users\Redi Zogolli\Documents\RevDeBug\CrudWebService\Metadata\\</RevDeBugMetadataPath>
+    <RevDeBugStateStorageType>Continuous</RevDeBugStateStorageType>
+    <PublishWithRevDeBug>false</PublishWithRevDeBug>
+    <RecorderAddress>127.0.0.1</RecorderAddress>
+    <RecorderTCPPort>42742</RecorderTCPPort>
+  </PropertyGroup>
+</Project>

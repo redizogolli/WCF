@@ -1,0 +1,12 @@
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\bin\Release\RestWebService.dll.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\bin\Release\RestWebService.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\bin\Release\RestWebService.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\bin\Release\Newtonsoft.Json.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\bin\Release\Operations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\bin\Release\Operations.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\bin\Release\Newtonsoft.Json.xml
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\obj\Release\RestWebService.csprojResolveAssemblyReference.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\obj\Release\RestWebService.csproj.CoreCompileInputs.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\obj\Release\RestWebService.csproj.CopyComplete
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\obj\Release\RestWebService.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWebService\obj\Release\RestWebService.pdb

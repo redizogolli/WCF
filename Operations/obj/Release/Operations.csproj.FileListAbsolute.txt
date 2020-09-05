@@ -1,0 +1,8 @@
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\bin\Release\Operations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\bin\Release\Operations.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\obj\Release\Operations.csprojResolveAssemblyReference.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\obj\Release\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\obj\Release\Operations.csproj.CopyComplete
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\obj\Release\Operations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\Operations\obj\Release\Operations.pdb

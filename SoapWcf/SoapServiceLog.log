@@ -1,0 +1,6 @@
+2020-02-05 16:19:09,952 [3] INFO SoapWcf.Employees - Getting all employees
+2020-02-05 16:19:44,455 [4] INFO SoapWcf.Employees - User not found during delete operation
+2020-02-05 16:20:18,298 [4] INFO SoapWcf.Employees - Getting all employees
+2020-02-05 16:20:45,114 [5] ERROR SoapWcf.Employees - Getting all employees Error
+System.Exception: something went really bad
+   at SoapWcf.Employees.GetEmployees()

@@ -1,0 +1,10 @@
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\bin\Release\SoapWebService.dll.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\bin\Release\SoapWebService.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\bin\Release\SoapWebService.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\bin\Release\Operations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\bin\Release\Operations.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\obj\Release\SoapWebService.csprojResolveAssemblyReference.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\obj\Release\SoapWebService.csproj.CoreCompileInputs.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\obj\Release\SoapWebService.csproj.CopyComplete
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\obj\Release\SoapWebService.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWebService\obj\Release\SoapWebService.pdb

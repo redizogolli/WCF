@@ -1,0 +1,16 @@
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\RestWcf.dll.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\RestWcf.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\RestWcf.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\Newtonsoft.Json.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\Operations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\Operations.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\Newtonsoft.Json.xml
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\obj\Debug\RestWcf.csproj.CoreCompileInputs.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\obj\Debug\RestWcf.csproj.CopyComplete
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\obj\Debug\RestWcf.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\obj\Debug\RestWcf.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\log4net.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\log4net.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\log4net.xml
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\bin\SwaggerWcf.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\RestWcf\obj\Debug\RestWcf.csprojAssemblyReference.cache

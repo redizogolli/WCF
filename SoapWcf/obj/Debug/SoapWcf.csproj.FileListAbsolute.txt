@@ -1,0 +1,13 @@
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\SoapWcf.dll.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\SoapWcf.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\SoapWcf.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\Operations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\Operations.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\obj\Debug\SoapWcf.csproj.CoreCompileInputs.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\obj\Debug\SoapWcf.csproj.CopyComplete
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\obj\Debug\SoapWcf.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\obj\Debug\SoapWcf.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\log4net.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\log4net.xml
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\bin\log4net.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapWcf\obj\Debug\SoapWcf.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\bin\Debug\RestWebService.dll.config
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\bin\Debug\RestWebService.dll
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\bin\Debug\RestWebService.pdb
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\bin\Debug\Operations.dll
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\bin\Debug\Operations.pdb
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\obj\Debug\RestWebService.csprojResolveAssemblyReference.cache
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\obj\Debug\RestWebService.csproj.CoreCompileInputs.cache
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\obj\Debug\RestWebService.csproj.CopyComplete
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\obj\Debug\RestWebService.dll
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\obj\Debug\RestWebService.pdb
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\bin\Debug\Newtonsoft.Json.dll
+c:\users\redi zogolli\source\repos\CrudWebService\RestWebService\bin\Debug\Newtonsoft.Json.xml

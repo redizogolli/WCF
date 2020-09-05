@@ -1,0 +1,15 @@
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\obj\Debug\SoapTopShelfService.csproj.CoreCompileInputs.cache
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\log4net.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\SoapTopShelfService.exe.config
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\SoapTopShelfService.exe
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\SoapTopShelfService.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\log4net.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\Operations.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\Operations.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\log4net.xml
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\obj\Debug\SoapTopShelfService.csproj.CopyComplete
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\obj\Debug\SoapTopShelfService.exe
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\obj\Debug\SoapTopShelfService.pdb
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\Topshelf.dll
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\bin\Debug\Topshelf.xml
+C:\Users\Redi Zogolli\source\repos\CrudWebService\SoapTopShelfService\obj\Debug\SoapTopShelfService.csprojAssemblyReference.cache
